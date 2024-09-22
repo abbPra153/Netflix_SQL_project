@@ -1,2 +1,3 @@
 # Netflix_SQL_project
-Basic and advanced SQL queries in this project to solve basics questions. 
+
+This is a Netflix tv show and movie data . basic and advanced SQL queries in this project to solve basic SQL questions. 
